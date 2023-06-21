@@ -13,7 +13,7 @@
 
 <meta name="date" content="2023-05-22" />
 
-<title>Prevalence and related factors of sleep quality among Chinese undergraduates in Jiangsu Province: Multiple models’ analysis</title>
+<title>Exploring the factors impacting sleep quality among Chinese undergraduates in Jiangsu Province: Multiple models’ analyses</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -350,9 +350,9 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Prevalence and related factors of sleep
+<h1 class="title toc-ignore">Exploring the factors impacting sleep
 quality among Chinese undergraduates in Jiangsu Province: Multiple
-models’ analysis</h1>
+models’ analyses</h1>
 <h4 class="author">xiao</h4>
 <h4 class="date">2023-05-22</h4>
 
@@ -368,9 +368,8 @@ quality control</a></li>
 alpha</a></li>
 <li><a href="#data-processing" id="toc-data-processing">Data
 processing</a></li>
-<li><a href="#generate-table-s1.-pittsburgh-sleep-quality-index-scores-of-undergraduates-with-different-characteristics." id="toc-generate-table-s1.-pittsburgh-sleep-quality-index-scores-of-undergraduates-with-different-characteristics.">Generate
-Table S1. Pittsburgh Sleep Quality Index scores of undergraduates with
-different characteristics.</a></li>
+<li><a href="#generate-table-s1." id="toc-generate-table-s1.">Generate
+Table S1.</a></li>
 <li><a href="#generate-table-1." id="toc-generate-table-1.">Generate
 Table 1.</a></li>
 <li><a href="#weighted-multiple-linear-regression-weighted-mlr" id="toc-weighted-multiple-linear-regression-weighted-mlr">Weighted
@@ -665,9 +664,10 @@ ordinal variables are set as ordered factors.</p>
   return(paste0(md,&#39;±&#39;,sd))
 }</code></pre>
 </div>
-<div id="generate-table-s1.-pittsburgh-sleep-quality-index-scores-of-undergraduates-with-different-characteristics." class="section level3">
-<h3>Generate Table S1. Pittsburgh Sleep Quality Index scores of
-undergraduates with different characteristics.</h3>
+<div id="generate-table-s1." class="section level3">
+<h3>Generate Table S1.</h3>
+<p>Pittsburgh Sleep Quality Index scores of undergraduates with
+different characteristics.</p>
 <pre class="r"><code>fenzuvb &lt;- c(quo(gender),quo(grade.ord),quo(MedicalMajor),
              quo(NativePlace),quo(OnlyChild),quo(FatherEducationLevel.ord),
              quo(MotherEducationLevel.ord),quo(FamilyEconomicLevel.ord),
@@ -1872,7 +1872,7 @@ cat(&quot;Number of removed samples:&quot;,dim(mydata)[1]-dim(mydata.out)[1])</c
 <pre><code>## Warning: Heteroscedasticity (non-constant error variance) detected (p &lt; .001).</code></pre>
 <p>Check the independence of residuals with Durbin-Waston’s test.</p>
 <pre class="r"><code>performance::check_autocorrelation(reg.last)</code></pre>
-<pre><code>## OK: Residuals appear to be independent and not autocorrelated (p = 0.332).</code></pre>
+<pre><code>## OK: Residuals appear to be independent and not autocorrelated (p = 0.334).</code></pre>
 <p>The homoscedasticity of residuals dose not satisfy, and the
 independency is satisfied. Thus, weight MLR will be adopted to solve
 heteroscedasticity. The weights were inversely proportional to the
@@ -2483,7 +2483,7 @@ cat(&quot;Number of removed samples:&quot;,dim(mydata)[1] - dim(mydata.logi.out)
 <p>The independence of observations was performed by Durbin-Waston’s
 test.</p>
 <pre class="r"><code>performance::check_autocorrelation(logi.last)</code></pre>
-<pre><code>## OK: Residuals appear to be independent and not autocorrelated (p = 0.568).</code></pre>
+<pre><code>## OK: Residuals appear to be independent and not autocorrelated (p = 0.564).</code></pre>
 </div>
 <div id="plot-figure-s2-of-extreme-values." class="section level3">
 <h3>Plot Figure S2 of extreme values.</h3>
@@ -4002,7 +4002,7 @@ anova(gmixedmodel.full,gmixedmodel.ep)</code></pre>
 ##                 p-value =    0.823</code></pre>
 <pre><code>## No overdispersion detected.</code></pre>
 <pre class="r"><code>performance::check_autocorrelation(gmixedmodel.full)</code></pre>
-<pre><code>## OK: Residuals appear to be independent and not autocorrelated (p = 0.096).</code></pre>
+<pre><code>## OK: Residuals appear to be independent and not autocorrelated (p = 0.088).</code></pre>
 <pre class="r"><code>performance::model_performance(gmixedmodel.full)</code></pre>
 <pre><code>## # Indices of model performance
 ## 
