@@ -22,10 +22,10 @@ Paper informations
 ## 2017
 1. **Xiao, Lishun**; Fan, Shengjun#. A representation theorem for generators of BSDEs with general growth generators in y and its applications. *Statistics & Probability Letters*, 2017, 129:297-305. 
 2. **Xiao, Lishun**; Fan, Shengjun#. General time interval BSDEs under the weak monotonicity condition and nonlinear decomposition for general g-supermartingales. *Stochastics*, 2017, 89(5):786-816. 
-3. **Xiao, Lishun**; Fan, Shengjun#; Xu, Na. Lp (p≥1) solutions of multidimensional BSDEs with monotone generators in general time intervals. *Stochastics and Dynamics*, 2015, 15(1):1-34.
 
 ## 2015
-1. Fan, Shengjun#; Wang, Yanbin; **Xiao, Lishun#**. Multidimensional BSDEs with uniformly continuous generators and general time intervals. Bulletin of the Korean Mathematical Society, 2015, 52(2):483-504.
+1. **Xiao, Lishun**; Fan, Shengjun#; Xu, Na. Lp (p≥1) solutions of multidimensional BSDEs with monotone generators in general time intervals. *Stochastics and Dynamics*, 2015, 15(1):1-34.
+2. Fan, Shengjun#; Wang, Yanbin; **Xiao, Lishun#**. Multidimensional BSDEs with uniformly continuous generators and general time intervals. Bulletin of the Korean Mathematical Society, 2015, 52(2):483-504.
 
 
 
