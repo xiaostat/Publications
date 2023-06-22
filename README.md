@@ -5,7 +5,7 @@ Paper informations
 2. **Xiao, Lishun**; Fan, Shengjun; Tian, Dejian. A representation theorem approach to probabilistic interpretation for viscosity solutions of Isaacs equations. *Journal of Mathematical Analysis and Applications*, 2023, 517:126610.
 
 ## 2022
-1. **Xiao, Lishun**; Yang, Chengcheng; Gu Wen; Liu, Rong#; Chen, Ding#. Associations between serum copper, zinc, selenium level and sex hormones among 6-19 years old children and adolescents in NHANES 2013-2016. *Frontiers in Endocrinology*, 2022, 13:924338, doi: 10.3389/fendo.2022.924338
+1. **Xiao, Lishun**; Yang, Chengcheng; Gu, Wen; Liu, Rong#; Chen, Ding#. Associations between serum copper, zinc, selenium level and sex hormones among 6-19 years old children and adolescents in NHANES 2013-2016. *Frontiers in Endocrinology*, 2022, 13:924338, doi: 10.3389/fendo.2022.924338
 2. Yao, Meixue; **Xiao, Lishun**; Sun, Xiaodong; Hao, Xiao; Lin, Zurui; Bai, Qiongqiong; Yin, Dehui#. Estimation of Plasmodium falciparum transmission using multiepitope chimeric antigen in the postelimination phase in Yunnan, China. *Parasitology International*, 2022, 89:102597
 3. Yao, Meixue; **Xiao, Lishun**; Sun, Xiaodong; Lin, Zurui; Hao, Xiao; Bai, Qiongqiong; Yin, Dehui#. Surveillance of Plasmodium vivax transmission using serological models in the border areas of China-Myanmar. *Malaria journal*. 2022, 21(1):69.
 
