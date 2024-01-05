@@ -10,7 +10,7 @@ Paper informations
 6. Association between dietary inflammatory index and diabetic retinopathy in US adults: findings from NHANES (2005-2008). 
 
 ## 2024
-1. Xu, Xiaozhou; Gu, Wen; Shen, Xiaohui; Liu, Yumeng; Zhai, Shilei; Xu, Chuanying; Cui, Guiyun; **Xiao, Lishun#**. 
+1. Xu, Xiaozhou; Gu, Wen; Shen, Xiaohui; Liu, Yumeng; Zhai, Shilei; Xu, Chuanying#; Cui, Guiyun#; **Xiao, Lishun#**. 
 An interactive web application to identify early Parkinsonian non‐tremor‐dominant subtypes. Journal of Neurology. <https://doi.org/10.1007/s00415-023-12156-5>.
 [Codes](https://github.com/xiaostat/IdentifyEarlyParkinsonianNonTremorDominantSubtypes).
 
