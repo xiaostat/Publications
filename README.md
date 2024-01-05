@@ -2,7 +2,7 @@
 Paper informations
 
 ## Working paper
-1. Exploring the factors impacting sleep quality among Chinese undergraduates in Jiangsu Province: Multiple models’ analyses. [Codes](https://github.com/xiaostat/sleep-quality-multiple-models-analyses).
+1. Exploring the factors impacting sleep quality among Chinese undergraduates in Jiangsu Province: Multiple models’ analyses. [Codes](https://github.com/xiaostat/SleepQualityMultipleModelsAnalyses).
 2. Association of type 2 diabetes mellitus with exposure to mixtures of phthalates, phenols, and parabens in NHANES 2013–2016. 
 3. The relationship between individual and multiple exposure to phthalates and T2DM in the urine of American adults over 20 years old. 
 4. Associations between trace elements and sex hormones among children andadolescents in NHANES 2013-2016: New evidence from quantile regression. 
@@ -12,7 +12,7 @@ Paper informations
 ## 2024
 1. Xu, Xiaozhou; Gu, Wen; Shen, Xiaohui; Liu, Yumeng; Zhai, Shilei; Xu, Chuanying; Cui, Guiyun; **Xiao, Lishun#**. 
 An interactive web application to identify early Parkinsonian non‐tremor‐dominant subtypes. Journal of Neurology. <https://doi.org/10.1007/s00415-023-12156-5>.
-[Codes](https://github.com/xiaostat/identify-early-parkinsonian-non-tremor-dominant-subtypes/tree/master/).
+[Codes](https://github.com/xiaostat/IdentifyEarlyParkinsonianNonTremorDominantSubtypes).
 
 ## 2023
 1. Wang, Yin; Liang, Jie; Yang, Huimin; Zhu, Liguo; Hu, Jianli; **Xiao, Lishun**; Huang, Yao; Dong, Yuying; Wu, Cheng; Zhang, Jun; Zhou, Xin#. Epidemiological and clinical characteristics of COVID-19 reinfection during the epidemic period in Yangzhou city, Jiangsu province. *Frontiers in Public Health*, Volume 11, 2023.09.13. <https://doi.org/10.3389/fpubh.2023.1256768>.
@@ -22,10 +22,10 @@ An interactive web application to identify early Parkinsonian non‐tremor‐dom
 ## 2022
 1. **Xiao, Lishun**; Yang, Chengcheng; Gu, Wen; Liu, Rong#; Chen, Ding#. 
 Associations between serum copper, zinc, selenium level and sex hormones among 6-19 years old children and adolescents in NHANES 2013-2016. 
-*Frontiers in Endocrinology*, 2022, 13:924338, <https://doi.org/10.3389/fendo.2022.924338>. [Codes](https://github.com/xiaostat/se-cu-zn-and-sex-hormones/tree/master/).
+*Frontiers in Endocrinology*, 2022, 13:924338, <https://doi.org/10.3389/fendo.2022.924338>. [Codes](https://github.com/xiaostat/SeCuZnAndSexHormones).
 2. Yao, Meixue; **Xiao, Lishun**; Sun, Xiaodong; Hao, Xiao; Lin, Zurui; Bai, Qiongqiong; Yin, Dehui#. 
 Estimation of Plasmodium falciparum transmission using multiepitope chimeric antigen in the postelimination phase in Yunnan, China. *Parasitology International*, 2022, 89:102597. 
-<https://doi.org/10.1016/j.parint.2022.102597>. [Data&codes](https://github.com/xiaostat/estimation-of-plasmodium-falciparum/tree/master/).
+<https://doi.org/10.1016/j.parint.2022.102597>. [Data&codes](https://github.com/xiaostat/EstimationOfPlasmodiumFalciparum).
 3. Yao, Meixue; **Xiao, Lishun**; Sun, Xiaodong; Lin, Zurui; Hao, Xiao; Bai, Qiongqiong; Yin, Dehui#. 
 Surveillance of Plasmodium vivax transmission using serological models in the border areas of China-Myanmar. *Malaria journal*. 2022, 21(1):69.
 
