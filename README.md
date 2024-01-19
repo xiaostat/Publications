@@ -3,7 +3,7 @@ Paper informations
 
 ## Working paper
 1. Exploring the factors impacting sleep quality among Chinese undergraduates in Jiangsu Province: Multiple models’ analyses. [Codes](https://github.com/xiaostat/SleepQualityMultipleModelsAnalyses).
-2. Association of type 2 diabetes mellitus with exposure to mixtures of phthalates, phenols, and parabens in NHANES 2013–2016. 
+2. Association of type 2 diabetes mellitus with exposure to mixtures of phthalates, phenols, and parabens in NHANES 2013–2016. [Codes&Data](https://github.com/xiaostat/T2DwithMixedExposures).
 3. The relationship between individual and multiple exposure to phthalates and T2DM in the urine of American adults over 20 years old. 
 4. Associations between trace elements and sex hormones among children andadolescents in NHANES 2013-2016: New evidence from quantile regression. 
 5. 徐州某高校大学生口腔健康知信行情况调查及其影响因素分析.
