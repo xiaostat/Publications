@@ -12,7 +12,7 @@ Paper informations
 An interactive web application to identify early Parkinsonian non‐tremor‐dominant subtypes. Journal of Neurology. <https://doi.org/10.1007/s00415-023-12156-5>.
 [Codes](https://github.com/xiaostat/IdentifyEarlyParkinsonianNonTremorDominantSubtypes).
 2. Liu, Rong; Zhang, Jiechang; Gu, Wen; Zhao, Xiujuan; **Xiao, Lishun#**; Yang, Chengcheng#. Dietary inflammatory index and diabetic retinopathy risk in US adults: findings from NHANES (2005–2008). *BMC Ophthalmology*, 2024, Volume 24, article number 46. <https://doi.org/10.1186/s12886-024-03303-1>. 
-3. Zhang, Jiechang; Gu, Wen; Zhai, Shilei; Liu, Yumeng; Yang, Chengcheng#; **Xiao, Lishun#**; Chen, Ding. Phthalate metabolites and sex steroid hormones in relation to obesity in US adults: NHANES 2013-2016. *Frontiers in Endocrinology*, 2024, 15:1340664. <https://doi.org/10.3389/fendo.2024.1340664>.
+3. Zhang, Jiechang; Gu, Wen; Zhai, Shilei; Liu, Yumeng; Yang, Chengcheng#; **Xiao, Lishun#**; Chen, Ding#. Phthalate metabolites and sex steroid hormones in relation to obesity in US adults: NHANES 2013-2016. *Frontiers in Endocrinology*, 2024, 15:1340664. <https://doi.org/10.3389/fendo.2024.1340664>.
 
 ## 2023
 1. Wang, Yin; Liang, Jie; Yang, Huimin; Zhu, Liguo; Hu, Jianli; **Xiao, Lishun**; Huang, Yao; Dong, Yuying; Wu, Cheng; Zhang, Jun; Zhou, Xin#. Epidemiological and clinical characteristics of COVID-19 reinfection during the epidemic period in Yangzhou city, Jiangsu province. *Frontiers in Public Health*, Volume 11, 2023.09.13. <https://doi.org/10.3389/fpubh.2023.1256768>.
