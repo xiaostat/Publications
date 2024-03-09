@@ -6,18 +6,19 @@ Paper informations
 2. Association of type 2 diabetes mellitus with exposure to mixtures of phthalates, phenols, and parabens in NHANES 2013–2016. [Codes&Data](https://github.com/xiaostat/T2DwithMixedExposures).
 3. The relationship between individual and multiple exposure to phthalates and T2DM in the urine of American adults over 20 years old. 
 4. Associations between trace elements and sex hormones among children andadolescents in NHANES 2013-2016: New evidence from quantile regression. 
-5. 徐州某高校大学生口腔健康知信行情况调查及其影响因素分析.
-6. Association between dietary inflammatory index and diabetic retinopathy in US adults: findings from NHANES (2005-2008). 
 
 ## 2024
 1. Xu, Xiaozhou; Gu, Wen; Shen, Xiaohui; Liu, Yumeng; Zhai, Shilei; Xu, Chuanying#; Cui, Guiyun#; **Xiao, Lishun#**. 
 An interactive web application to identify early Parkinsonian non‐tremor‐dominant subtypes. Journal of Neurology. <https://doi.org/10.1007/s00415-023-12156-5>.
 [Codes](https://github.com/xiaostat/IdentifyEarlyParkinsonianNonTremorDominantSubtypes).
+2. Liu, Rong; Zhang, Jiechang; Gu, Wen; Zhao, Xiujuan; **Xiao, Lishun#**; Yang, Chengcheng#. Dietary inflammatory index and diabetic retinopathy risk in US adults: findings from NHANES (2005–2008). *BMC Ophthalmology*, 2024, Volume 24, article number 46. <https://doi.org/10.1186/s12886-024-03303-1>. 
+3. Zhang, Jiechang; Gu, Wen; Zhai, Shilei; Liu, Yumeng; Yang, Chengcheng#; **Xiao, Lishun#**; Chen, Ding. Phthalate metabolites and sex steroid hormones in relation to obesity in US adults: NHANES 2013-2016. *Frontiers in Endocrinology*, 2024, 15:1340664. <https://doi.org/10.3389/fendo.2024.1340664>.
 
 ## 2023
 1. Wang, Yin; Liang, Jie; Yang, Huimin; Zhu, Liguo; Hu, Jianli; **Xiao, Lishun**; Huang, Yao; Dong, Yuying; Wu, Cheng; Zhang, Jun; Zhou, Xin#. Epidemiological and clinical characteristics of COVID-19 reinfection during the epidemic period in Yangzhou city, Jiangsu province. *Frontiers in Public Health*, Volume 11, 2023.09.13. <https://doi.org/10.3389/fpubh.2023.1256768>.
 2. **Xiao, Lishun**; Fan, Shengjun; Tian, Dejian. A representation theorem approach to probabilistic interpretation for viscosity solutions of Isaacs equations. 
 *Journal of Mathematical Analysis and Applications*, 2023, 517:126610. <https://doi.org/10.1016/j.jmaa.2022.126610>.
+3. 赵颖; 李丽; 陈明明; **肖立顺#**. 徐州某高校大学生口腔健康知信行情况调查及其影响因素分析. 徐州医科大学学报, 2023, 43(11):826-830. <https://xb.xzhmu.edu.cn/cn/article/doi/10.3969/j.issn.2096-3882.2023.11.009>.
 
 ## 2022
 1. **Xiao, Lishun**; Yang, Chengcheng; Gu, Wen; Liu, Rong#; Chen, Ding#. 
